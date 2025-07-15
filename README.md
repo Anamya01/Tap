@@ -1,6 +1,6 @@
 # 🗞️ Local News on Scroll
 
-🚀 **Live Demo**: [Live](https://tap-git-main-anamyas-projects-7256aa4c.vercel.app/)
+🚀 **Live Demo**: [Live](https://tap-sooty.vercel.app/)
 
 ---
 
