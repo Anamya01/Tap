@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Misto';
+  src: url('./Fonts/Misto.otf');
+}
+
+body {
+  font-family: 'Misto';
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fafafa;
+}
+
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
