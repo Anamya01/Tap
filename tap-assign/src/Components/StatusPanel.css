@@ -1,12 +1,13 @@
 .status-panel {
+    font-family: 'Misto';
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #f0f4f8;
-    border-bottom: 1px solid #ccc;
+    background-color: 	#212121;
+    border: .5px solid #AAAAAA;
     font-size: 14px;
-    color: #444;
+    color: oklch(90.5937% .189547 142.337122);
   }
   
   .status-panel div {
