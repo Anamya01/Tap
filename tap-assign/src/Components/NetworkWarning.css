@@ -1,8 +1,10 @@
 .network-warning {
+    font-family: 'Misto';
     padding: 10px;
-    background-color: #ffe0e0;
+    background-color: #212121;
     color: #a00;
     text-align: center;
     font-size: 14px;
+    border: .5px solid #AAAAAA;
   }
   
